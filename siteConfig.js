@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'Everything Art',
-  shortName: 'EA',
-  description: '',
+  name: 'nimu',
+  shortName: 'nimu',
+  description: 'Everything Art',
   url: 'https://nimu.work', // Domain of your site without prefix!
   prefix: '/',
   author: 'Ashwini Munji',
