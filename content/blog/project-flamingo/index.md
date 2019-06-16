@@ -5,7 +5,7 @@ thumbnail: ./ProjectFlamingo.jpg
 description: The Flamingo Project
 ---
 
-![Flamingo 1](./ProjectFlamingo.jpg)
+
 
 This, was mainly an exercise to understand and explore the different techniques of Image-making. Various techniques led to various results and each result was unique in terms of the materials used, the mesaage it conveyed and differed in the complexity of the subject.  
    
