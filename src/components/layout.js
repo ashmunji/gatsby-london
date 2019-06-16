@@ -32,9 +32,6 @@ const Layout = props => {
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
-              </li>
             </ul>
           </nav>
           <div className="site-head-center">
@@ -45,15 +42,15 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="mailto:munjiashwini@gmail.com"
+                title="Contact Me"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Contact Me
               </a>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/ashwinimunji"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
