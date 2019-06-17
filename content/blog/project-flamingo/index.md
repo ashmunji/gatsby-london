@@ -1,8 +1,8 @@
 ---
-title: Project Flamingo
+title: The Flamingo Project
 date: "2019-06-16T00:00:00.000Z"
 thumbnail: ./ProjectFlamingo.jpg
-description: The Flamingo Project
+description: "Be a Flamingo in a flock of Pigeons"
 ---
 
 
