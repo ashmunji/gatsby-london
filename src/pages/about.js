@@ -18,8 +18,10 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Something about the writer. TODO. 
+            Hey this is nimu!
           </h2>
+    <p> Welcome to my website, I'm an Interior Designer based out of San Fransisco, CA. Apart from making illustrations, and thinking of
+    creative ways to spend my time, I'm crazy about cinema and I also like experimenting with cooking. </p>
         </div>
       </article>
     </Layout>
