@@ -13,4 +13,6 @@ This was mainly an exercise to understand and explore the different techniques o
 While conducting research for this project, I found [Flamingos](https://en.wikipedia.org/wiki/Flamingo), to be a very interesting bird species and perfect as my subject to make art explorations.  
 I mean who wouldn't admire their vibrant, pastel coats? Aren't those long necks and tall legs absolutely to die for?
 
-Keep Tabs on this space to view all of my flamingo illustrations.
+Keep Tabs on this space to view all of my flamingo illustrations.  
+
+1. [Abstractions](https://www.nimu.work/flemingo-abstractions/)

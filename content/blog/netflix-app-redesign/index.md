@@ -8,7 +8,7 @@ description: Reimagining the Ui/Ux of the Netflix App
 
 ## The Project
 
-I worked on this project to help my friend in his coursework for the subject: Human-Computer Interaction.
+I worked on this project to help my husband in his coursework for the subject: Human-Computer Interaction.
    
 The redesign of the app was focused mainly to increase the 'searchability' factor which allowed users to discover the content they were looking for more efficiently. 
 
@@ -16,8 +16,8 @@ This app also encourages users to describe their viewing experience by adding in
 
 You can find some of the suggested changes in the pictures below.
 
-![Redesign](./Redesign3.jpg)
 ![Redesign](./Redesign4.jpg)
+![Redesign](./Redesign3.jpg)
 ![Redesign](./Redesign5.jpg)
 ![Redesign](./Redesign2.jpg)
 
