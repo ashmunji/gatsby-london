@@ -2,11 +2,11 @@
 title: Flamingo Abstractions
 date: "2019-06-16T00:00:00.000Z"
 thumbnail: ./Flamingo1.jpg
-description: This section is a part of the _flamingo Project_. Go check it out! 
+description: This section is a part of the _flamingo Project_. Go check it out!
+---
 
 
-
-# Abstractions
+## Abstractions
 
 As I desperately tried to think of concepts to draw the bird, motivation struck by simply taking time to look around! 
 

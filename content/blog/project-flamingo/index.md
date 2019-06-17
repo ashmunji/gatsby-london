@@ -6,6 +6,7 @@ description: "Be a Flamingo in a flock of Pigeons"
 ---
 
 
+## The Project
 
 This was mainly an exercise to understand and explore the different techniques of image-making. Various techniques led to various results and each result was unique in terms of the materials used, the message it conveyed and differed in the complexity of the subject.  
    
